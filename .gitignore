@@ -1,0 +1,6 @@
+Pods/
+chat_bubbles/
+Podfile
+Podfile.lock
+*.png
+*.jpg
